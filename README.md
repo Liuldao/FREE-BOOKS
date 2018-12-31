@@ -1,1 +1,20 @@
 # FREE BOOKS 
+
+* PHP
+* CPP
+* PYTHON
+* JQUERY
+* HTML5
+* LINUX
+* MONGDB
+* JAVASCRIPT
+* NODEJS
+* GIT
+* C
+* HTML5 CANVAS
+* CSS
+* MYSQL
+
+
+-----------------
+
